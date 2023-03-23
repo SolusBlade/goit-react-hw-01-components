@@ -1,0 +1,13 @@
+.transactionHeader {
+    background-color: #f2f2f2;
+}
+
+.transactionHeader:nth-child(2n+2) {
+    background-color: #b8b8b8;
+}
+
+.transactionHeaderItem {
+    padding: 10px 20px;
+    /* display: block; */
+    color: #212121;
+}
